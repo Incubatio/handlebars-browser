@@ -1,0 +1,12 @@
+{
+    "author": "Yehuda Katz",
+    "name": "handlebars-browser",
+    "description": "handlebars npm package for browsers",
+    "version": "1.1.2",
+    "homepage": "http://handlebarsjs.com/",
+    "repository": {
+      "type":"git",
+      "url": "https://github.com/wycats/handlebars.js.git"
+    },
+    "main": "handlebars.js"
+}
